@@ -1,5 +1,5 @@
 # wiki-backup
-A simple wiki backup that iterates through wikibooks, wikinews, wikipedia, wikiquote, wikisource, wikiversity, wikivoyage, wiktionary and allows the user to select one for download. The script downloads from a publically available dump into the folder it is in.
+A simple wiki backup that iterates through wikibooks, wikinews, wikipedia, wikiquote, wikisource, wikiversity, wikivoyage, wiktionary and allows the user to select one for download. The script downloads from a publicly available dump into the folder it is in.
 
 ## Prerequisites
  1. Python
